@@ -31,7 +31,7 @@ from tensorflow.keras import Model
 from os import getcwd
 
 # GRADED FUNCTION: train_val_datasets
-
+```
 def train_val_datasets():
     """Creates training and validation datasets
 
@@ -261,7 +261,7 @@ plt.title('Training and validation Loss')
 plt.legend(loc=0)
 plt.figure()
 plt.show()
-
+```
 
 
 ## OUTPUT
